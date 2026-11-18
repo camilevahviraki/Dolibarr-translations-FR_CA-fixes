@@ -1,0 +1,97 @@
+# bills — avant / après
+
+- Fichier : `for_translation_dolibarr_bills_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
+- Lignes modifiées : **90** sur 787 traductions
+
+| # | Clé | English (en_US) | Avant | Après |
+|---:|---|---|---|---|
+| 1 | `InvoiceAvoir` | Credit note | Facture avoir | Note de crédit |
+| 2 | `InvoiceAvoirDesc` | The <b>credit note</b> is a negative invoice used to correct the fact that an invoice shows an amount that differs from the amount actually paid (eg the customer paid too much by mistake, or will not pay the complete amount since some products were returned). | L'avoir <b></b> est une facture négative utilisée pour corriger le fait qu'une facture indique un montant différent du montant réellement payé (par exemple le client a payé trop cher par erreur, ou ne paiera pas le montant complet car certains produits ont été retournés). | La <b>note de crédit</b> est une facture négative utilisée pour corriger le fait qu'une facture indique un montant différent du montant réellement payé (par exemple le client a payé trop cher par erreur, ou ne paiera pas le montant complet car certains produits ont été retournés). |
+| 3 | `invoiceAvoirWithLines` | Create Credit Note with lines from the origin invoice | Créer l'avoir avec les même lignes que la factures dont il est issu | Créer la note de crédit avec les mêmes lignes que la facture dont elle est issue |
+| 4 | `invoiceAvoirWithPaymentRestAmount` | Create Credit Note with remaining unpaid of origin invoice | Créer l'avoir avec le montant restant à payer de la facture dont il est issu. | Créer la note de crédit avec le montant restant à payer de la facture dont elle est issue. |
+| 5 | `invoiceAvoirLineWithPaymentRestAmount` | Credit Note for remaining unpaid amount | Avoir sur le reste à payer | Note de crédit sur le reste à payer |
+| 6 | `CardBill` | Invoice card | Fiche facture | Carte facture |
+| 7 | `paymentInInvoiceCurrency` | in invoices currency | en factures de devises | dans la devise des factures |
+| 8 | `CreateCreditNote` | Create credit note | Créer avoir | Créer une note de crédit |
+| 9 | `AddBill` | Create invoice or credit note | Créer une facture ou un avoir | Créer une facture ou une note de crédit |
+| 10 | `EnterPaymentDueToCustomer` | Make payment due to customer | Saisie d'un remboursement d'un avoir client | Saisie d'un remboursement d'une note de crédit client |
+| 11 | `BillShortStatusClosedPaidPartially` | Paid (partially) | Payée | Payée (partiellement) |
+| 12 | `ErrorInvoiceReplacedAlreadyInAccountancy` | Error, invoice %s has already been transferred into accounting and can't be replaced. Create a credit note instead. | Erreur : la facture %s a déjà été transférée en comptabilité et ne peut être remplacée. Veuillez créer un avoir. | Erreur : la facture %s a déjà été transférée en comptabilité et ne peut être remplacée. Veuillez créer une note de crédit. |
+| 13 | `ErrorPointOfTaxOfValidatedInvoiceCantBeChanged` | Error, the point of tax date of invoice %s can't be changed once the invoice is validated. Set the invoice back to draft or create a credit note. | Erreur : la date limite de facturation de la facture %s ne peut être modifiée une fois la facture validée. Veuillez la remettre en brouillon ou créer un avoir. | Erreur : la date d'exigibilité de la taxe de la facture %s ne peut être modifiée une fois la facture validée. Veuillez la remettre en brouillon ou créer une note de crédit. |
+| 14 | `ErrorDiscountNotSameCompany` | Error, this discount does not belong to the third party of the invoice | Erreur, cette réduction n'est pas due au tiers figurant sur la facture. | Erreur, cette remise n'appartient pas au tiers de la facture |
+| 15 | `ErrorInvoiceAvoirMustBeNegative` | Error, correct invoice must have a negative amount | Erreur, une facture de type Avoir doit avoir un montant négatif | Erreur, une note de crédit doit avoir un montant négatif |
+| 16 | `CustomersDraftInvoices` | Customer draft invoices | Factures de tirage des clients | Factures clients brouillons |
+| 17 | `SuppliersDraftInvoices` | Vendor draft invoices | Projets de factures des fournisseurs | Factures fournisseurs brouillons |
+| 18 | `ConfirmUnvalidateBill` | Are you sure you want to change invoice <b>%s</b> to draft status? | Êtes-vous sûr de vouloir modifier la facture <b>%s</b> pour rédiger un état? | Êtes-vous sûr de vouloir remettre la facture <b>%s</b> à l'état brouillon? |
+| 19 | `AmountOfBillsByMonthHT` | Amount of invoices by month (net of tax) | Montant de factures par mois (no tax.) | Montant des factures par mois (avant taxes) |
+| 20 | `UseSituationInvoices` | Allow situation invoice | Autoriser la situation de facturation | Autoriser les factures de situation |
+| 21 | `UseSituationInvoicesCreditNote` | Allow situation invoice credit note | Autoriser la situation facture note de crédit | Autoriser les notes de crédit sur les factures de situation |
+| 22 | `RetainedWarranty` | Retained warranty | Garantie conservée | Retenue de garantie |
+| 23 | `RetainedWarrantyShort` | Ret. warranty | Garantie de retour | Ret. garantie |
+| 24 | `RetainedWarrantyDefaultPercent` | Retained warranty default percent | Pourcentage de défaut de garantie conservé | Pourcentage de retenue de garantie par défaut |
+| 25 | `RelatedRecurringCustomerInvoices` | Related recurring customer invoices | Connexes factures clients récurrents | Factures clients récurrentes associées |
+| 26 | `ReductionShort` | Disc. | Disque. | Rem. |
+| 27 | `ReductionsShort` | Disc. | Disque. | Rem. |
+| 28 | `AddCreditNote` | Create credit note | Créer facture avoir | Créer une note de crédit |
+| 29 | `ShowDiscount` | Show discount | Visualiser l'avoir | Voir la note de crédit |
+| 30 | `CreditNote` | Credit note | Avoir | Note de crédit |
+| 31 | `CreditNotes` | Credit notes | Avoirs | Notes de crédit |
+| 32 | `DiscountFromCreditNote` | Discount from credit note %s | Remise issue de l'avoir %s | Remise issue de la note de crédit %s |
+| 33 | `FrequencyPer_d` | Every %s days | Chaque %s jours | Tous les %s jours |
+| 34 | `FrequencyPer_m` | Every %s months | Chaque %s mois | Tous les %s mois |
+| 35 | `FrequencyPer_y` | Every %s years | Chaque %s années | Tous les %s ans |
+| 36 | `toolTipFrequency` | Examples:<br><b>Set 7, Day</b>: give a new invoice every 7 days<br><b>Set 3, Month</b>: give a new invoice every 3 month | Exemples :<br><b>Ensemble 7, Jour</b> : émission d'une nouvelle facture tous les 7 jours<br><b>Ensemble 3, Mois</b> : émission d'une nouvelle facture tous les 3 mois | Exemples :<br><b>Régler à7, Jour</b> : émission d'une nouvelle facture tous les 7 jours<br><b>Régler à3, Mois</b> : émission d'une nouvelle facture tous les 3 mois |
+| 37 | `NextDateToExecutionHelp` | If you set a day >= 28, the invoice will be generated on the last day of each month (end-of-month mode). For example, setting the 31st will generate invoices on Jan 31, Feb 28/29, Mar 31, Apr 30, etc. | Si vous définissez une date supérieure ou égale à 28, la facture sera générée le dernier jour de chaque mois (mode fin de mois). Par exemple, si vous définissez le 31, les factures seront générées le 31 janvier, les 28 et 29 février, le 31 mars, le 30 avril, etc. | Si vous définissez une date supérieure ou égale à 28, la facture sera générée le dernier jour de chaque mois (mode fin de mois). Par exemple, si vous définissez le 31, les factures seront générées le 31 janvier, le 28 ou 29 février, le 31 mars, le 30 avril, etc. |
+| 38 | `CreditNoteOnDepositCantBeSetToDraft` | Cannot set back to draft a credit note on a fully applied deposit | Il est impossible de revenir en arrière et de rédiger une note de crédit sur un dépôt entièrement appliqué. | Impossible de remettre en brouillon une note de crédit sur un dépôt entièrement appliqué. |
+| 39 | `DepositMaxCreditNote` | Available credit on this deposit: %s TTC — credit note amount cannot exceed this value | Crédit disponible sur ce dépôt : %s TTC — le montant de l'avoir ne peut pas dépasser cette valeur | Crédit disponible sur ce dépôt : %s TTC — le montant de la note de crédit ne peut pas dépasser cette valeur |
+| 40 | `CreditNoteExceedsDepositCredit` | Credit note amount exceeds the available deposit credit (%s TTC) | Le montant de l'avoir dépasse le crédit de dépôt disponible (%s TTC) | Le montant de la note de crédit dépasse le crédit de dépôt disponible (%s TTC) |
+| 41 | `PaymentTypePRE` | Direct debit payment order | Ordre de paiement de débit direct | Prélèvement automatique |
+| 42 | `PaymentTypeShortPRE` | Debit payment order | Ordre de paiement de débit | Prélèvement |
+| 43 | `PaymentTypeLIQ` | Cash | Espèce | Espèces |
+| 44 | `PaymentTypeShortLIQ` | Cash | Espèce | Espèces |
+| 45 | `PaymentTypeTIP` | TIP (Documents against Payment) | CONSEIL (Documents contre paiement) | TIP (Titre interbancaire de paiement) |
+| 46 | `PaymentTypeShortTIP` | TIP Payment | PAIEMENT Paiement | Paiement TIP |
+| 47 | `PaymentTypeTRA` | Bank draft | Procédure bancaire | Traite bancaire |
+| 48 | `PaymentTypeShortTRA` | Draft | Brouillon | Traite |
+| 49 | `PaymentTypeFAC` | Factor | Facteur | Affacturage |
+| 50 | `PaymentTypeShortFAC` | Factor | Facteur | Affacturage |
+| 51 | `PaymentTypePP` | PayPal | Pay Pal | PayPal |
+| 52 | `ChequeBordereau` | Check schedule | Check schedule | Bordereau de chèques |
+| 53 | `TerreNumRefModelDesc1` | Return number in the format %syymm-nnnn for standard invoices and %syymm-nnnn for credit notes where yy is year, mm is month and nnnn is a sequential auto-incrementing number with no break and no return to 0 | Numéro de retour au format %saamm-nnnn pour les factures standard et %saamm-nnnn pour les notes de crédit où aa est l'année, mm est le mois et nnnn est un numéro séquentiel à incrémentation automatique sans interruption et sans retour à 0 | Renvoie le numéro au format %saamm-nnnn pour les factures standard et %saamm-nnnn pour les notes de crédit où aa est l'année, mm est le mois et nnnn est un numéro séquentiel à incrémentation automatique sans interruption et sans retour à 0 |
+| 54 | `MarsNumRefModelDesc1` | Return number in the format %syymm-nnnn for standard invoices, %syymm-nnnn for replacement invoices, %syymm-nnnn for down payment invoices and %syymm-nnnn for credit notes where yy is year, mm is month and nnnn is a sequential auto-incrementing number with no break and no return to 0 | Numéro de retour au format %saamm-nnnn pour les factures standard, %saamm-nnnn pour les factures de remplacement, %saamm-nnnn pour les factures d'acompte et %saamm-nnnn pour les notes de crédit où aa est l'année, mm le mois et nnnn est un numéro séquentiel à incrémentation automatique sans interruption et sans retour à 0 | Renvoie le numéro au format %saamm-nnnn pour les factures standard, %saamm-nnnn pour les factures de remplacement, %saamm-nnnn pour les factures d'acompte et %saamm-nnnn pour les notes de crédit où aa est l'année, mm le mois et nnnn est un numéro séquentiel à incrémentation automatique sans interruption et sans retour à 0 |
+| 55 | `CactusNumRefModelDesc1` | Return number in the format %syymm-nnnn for standard invoices, %syymm-nnnn for credit notes and %syymm-nnnn for down payment invoices where yy is year, mm is month and nnnn is a sequential auto-incrementing number with no break and no return to 0 | Numéro de retour au format %syymm-nnnn pour les factures standard, %syymm-nnnn pour les notes de crédit et %syymm-nnnn pour les factures d'acompte où yy est l'année, mm le mois et nnnn est un numéro séquentiel à incrémentation automatique sans interruption et sans retour à 0 | Renvoie le numéro au format %syymm-nnnn pour les factures standard, %syymm-nnnn pour les notes de crédit et %syymm-nnnn pour les factures d'acompte où yy est l'année, mm le mois et nnnn est un numéro séquentiel à incrémentation automatique sans interruption et sans retour à 0 |
+| 56 | `SituationAmount` | Situation invoice amount(net) | Montant de facture de situation (no tax.) | Montant de la facture de situation (avant taxes) |
+| 57 | `ErrorOutingSituationInvoiceOnUpdate` | Unable to outing this situation invoice. | Impossible de dénoncer cette situation facture. | Impossible de retirer cette facture de situation. |
+| 58 | `ErrorOutingSituationInvoiceCreditNote` | Unable to outing linked credit note. | Impossible de sortir la note de crédit liée. | Impossible de retirer la note de crédit liée. |
+| 59 | `situationInvoiceShortcode_AS` | AS | COMME | AS |
+| 60 | `situationInvoiceShortcode_S` | S | D | S |
+| 61 | `CantBeNullOrPositive` | The progress of a credit note invoice can't be null or positive | L'avancement d'une facture d'avoir ne peut être ni nul ni positif | L'avancement d'une note de crédit ne peut être ni nul ni positif |
+| 62 | `CantBeMoreThanMinPercent` | As it is a credit note, the progress can't be higher than its value in the previous situation. | S'agissant d'un avoir, le montant ne peut être supérieur à sa valeur dans la situation précédente. | S'agissant d'une note de crédit, le montant ne peut être supérieur à sa valeur dans la situation précédente. |
+| 63 | `SituationInvoiceDate` | Date invoice situation | Situation de la facture de date | Date de la facture de situation |
+| 64 | `PDFOctopusSituationInvoiceLineDecompte` | Situation invoice - COUNT | Facture de situation - compter | Facture de situation - Décompte |
+| 65 | `ToCreateARecurringInvoice` | To create a recurring invoice for this contract, first create this draft invoice, then convert it into an invoice template and define the frequency for generation of future invoices. | Pour créer une facture récurrente pour ce contrat , d'abord créer ce projet de facture, puis le convertir en un modèle de facture et de définir la fréquence pour la génération des factures futures . | Pour créer une facture récurrente pour ce contrat, créez d'abord cette facture brouillon, puis convertissez-la en facture modèle et définissez la fréquence de génération des factures futures. |
+| 66 | `DeleteRepeatableInvoice` | Delete template invoice | Supprimer la facture du modèle | Supprimer la facture modèle |
+| 67 | `ConfirmDeleteRepeatableInvoice` | Are your sure you want to delete the template invoice? | Êtes-vous sûr de vouloir supprimer la facture du modèle? | Êtes-vous sûr de vouloir supprimer la facture modèle? |
+| 68 | `PreviousProgress` | Previous progress | progrès antérieurs | Progression précédente |
+| 69 | `CumulativeProgression` | Cumulative progress | Progrès cumulatifs | Progression cumulée |
+| 70 | `DisputeWon` | Dispute won | Victoire en litige | Litige gagné |
+| 71 | `DisputesOpenInProgress` | Open disputes in progress | Conflits ouverts en cours | Litiges ouverts en cours |
+| 72 | `AutoSendEmail` | Automatic email sending | Envoi automatique d'e-mails | Envoi automatique de courriels |
+| 73 | `EmailTemplateForAutoSend` | Email template for automatic sending | Modèle d'e-mail pour l'envoi automatique | Modèle de courriel pour l'envoi automatique |
+| 74 | `sendAutoEmailInvoiceKO` | Failed to send email from %s to %s | Échec de l'envoi de l'e-mail de %s à %s | Échec de l'envoi du courriel de %s à %s |
+| 75 | `cancelByCreditNote` | Cancel by credit note | Annulation par avoir | Annulation par note de crédit |
+| 76 | `ConfirmMassCreateCreditNote` | Confirm cancellation of invoices using credit notes | Confirmer l'annulation des factures au moyen d'avoirs | Confirmer l'annulation des factures au moyen de notes de crédit |
+| 77 | `ConfirmMassCreateCreditNoteQuestion` | Are you sure you want to cancel the %s selected record(s) using credit notes? | Êtes-vous sûr de vouloir annuler le(s) enregistrement(s) %s sélectionné(s) en utilisant des avoirs ? | Êtes-vous sûr de vouloir annuler le(s) enregistrement(s) %s sélectionné(s) en utilisant des notes de crédit ? |
+| 78 | `CreditNoteNotCreatedStockCalculateOnBillEnabled` | Credit note not created because stock calculation on invoice validation option  is enabled | L'avoir n'a pas été créé car l'option de calcul des stocks lors de la validation de la facture est activée. | La note de crédit n'a pas été créée car l'option de calcul des stocks lors de la validation de la facture est activée. |
+| 79 | `CreditNoteNotCreatedInvoiceNotValidated` | Credit note for <b>%s</b> not created: invoice not yet validated | Avoir non créé pour <b>%s</b> : facture non validée | Note de crédit pour <b>%s</b> non créée : facture non validée |
+| 80 | `CreditNoteNotCreatedPaymentAlreadyDone` | Credit note for <b>%s</b> not created: payment already recorded | L'avoir pour <b>%s</b> n'a pas été créé : paiement déjà enregistré | La note de crédit pour <b>%s</b> n'a pas été créée : paiement déjà enregistré |
+| 81 | `CreditNoteNotCreatedCreditNoteAlreadyUsed` | Credit note for <b>%s</b> not created: another credit note already used | Avoir pour <b>%s</b> non créé : un autre avoir a déjà été utilisé | Note de crédit pour <b>%s</b> non créée : une autre note de crédit a déjà été utilisée |
+| 82 | `CreditNoteNotCreatedDepositAlreadyUsed` | Credit note for <b>%s</b> not created: deposit already used | Avoir pour <b>%s</b> non créé : dépôt déjà utilisé | Note de crédit pour <b>%s</b> non créée : dépôt déjà utilisé |
+| 83 | `CreditNoteCreated` | Credit note <b>%s</b> has been created and the invoice <b>%s</b> has been cancelled | L'avoir <b>%s</b> a été créé et la facture <b>%s</b> a été annulée | La note de crédit <b>%s</b> a été créée et la facture <b>%s</b> a été annulée |
+| 84 | `CreditNoteNotCreatedErrorOnValidation` | Credit note for <b>%s</b> not created: error during validation | L'avoir pour <b>%s</b> n'a pas été créé : erreur lors de la validation | La note de crédit pour <b>%s</b> n'a pas été créée : erreur lors de la validation |
+| 85 | `CreditNoteNotCreatedErrorOnDiscountLink` | Credit note for <b>%s</b> not created: error linking discount | L'avoir pour <b>%s</b> n'a pas été créé : erreur lors de la liaison de la remise | La note de crédit pour <b>%s</b> n'a pas été créée : erreur lors de la liaison de la remise |
+| 86 | `CreditNoteNotCreatedErrorOnSetPaidSourceInvoice` | Credit note for <b>%s</b> not created: error while setting source invoice as paid | L'avoir pour <b>%s</b> n'a pas été créé : erreur lors de la définition de la facture source comme payée | La note de crédit pour <b>%s</b> n'a pas été créée : erreur lors de la définition de la facture source comme payée |
+| 87 | `CreditNoteNotCreatedErrorOnSourceInvoiceNotFullyPaidAfterDiscount` | Credit note for <b>%s</b> not created: source invoice not fully paid after discount | Avoir non créé pour <b>%s</b> : facture source non intégralement payée après remise | Note de crédit pour <b>%s</b> non créée : facture source non intégralement payée après remise |
+| 88 | `CreditNoteNotCreatedErrorOnSetPaid` | Credit note for <b>%s</b> not created: error setting invoice as paid | L'avoir pour <b>%s</b> n'a pas été créé : erreur lors de la validation de la facture comme payée | La note de crédit pour <b>%s</b> n'a pas été créée : erreur lors de la validation de la facture comme payée |
+| 89 | `CreditNoteNotCreatedErrorOnDiscount` | Credit note for <b>%s</b> not created: error applying discount | L'avoir pour <b>%s</b> n'a pas été créé : erreur lors de l'application de la remise | La note de crédit pour <b>%s</b> n'a pas été créée : erreur lors de l'application de la remise |
+| 90 | `CreditNotesCreated` | %s credit note(s) created | %s avoir(s) créé(s) | %s note(s) de crédit créée(s) |
