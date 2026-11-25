@@ -37,7 +37,7 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 29 | [loan](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/loan/) | 78 | 7 | [voir](for_translation_dolibarr_loan_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 30 | [mails](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/mails/) | 213 | 106 | [voir](for_translation_dolibarr_mails_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 31 | [main](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/main/) | 1447 | 118 | [voir](for_translation_dolibarr_main_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 32 | [margins](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/margins/) | 47 |  |  | [x] | [ ] | [ ] | [ ] |
+| 32 | [margins](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/margins/) | 47 | 12 | [voir](for_translation_dolibarr_margins_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 33 | [members](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/members/) | 271 |  |  | [x] | [ ] | [ ] | [ ] |
 | 34 | [modulebuilder](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/modulebuilder/) | 224 |  |  | [x] | [ ] | [ ] | [ ] |
 | 35 | [mrp](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/mrp/) | 178 |  |  | [x] | [ ] | [ ] | [ ] |
@@ -68,4 +68,4 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 |  |  | [x] | [ ] | [ ] | [ ] |
 | 61 | [website](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/website/) | 526 |  |  | [x] | [ ] | [ ] | [ ] |
 | 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 |  |  | [x] | [ ] | [ ] | [ ] |
-| | **Total** | **15994** | **993** | | | **31 / 62** | | |
+| | **Total** | **15994** | **1005** | | | **32 / 62** | | |
