@@ -22,7 +22,7 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 14 | [cron](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/cron/) | 88 | 13 | [x] | [x] | [ ] | [ ] |
 | 15 | [dict](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/dict/) | 354 | 49 | [x] | [x] | [ ] | [ ] |
 | 16 | [donations](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/donations/) | 63 | 7 | [x] | [x] | [ ] | [ ] |
-| 17 | [ecm](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/ecm/) | 59 |  | [x] | [ ] | [ ] | [ ] |
+| 17 | [ecm](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/ecm/) | 59 | 4 | [x] | [x] | [ ] | [ ] |
 | 18 | [errors](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/errors/) | 493 |  | [x] | [ ] | [ ] | [ ] |
 | 19 | [eventorganization](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/eventorganization/) | 145 |  | [x] | [ ] | [ ] | [ ] |
 | 20 | [exports](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/exports/) | 169 |  | [x] | [ ] | [ ] | [ ] |
@@ -68,4 +68,4 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 |  | [x] | [ ] | [ ] | [ ] |
 | 61 | [website](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/website/) | 526 |  | [x] | [ ] | [ ] | [ ] |
 | 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 |  | [x] | [ ] | [ ] | [ ] |
-| | **Total** | **15994** | **500** | | **14 / 62** | | |
+| | **Total** | **15994** | **504** | | **15 / 62** | | |
