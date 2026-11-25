@@ -58,7 +58,7 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 50 | [resource](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/resource/) | 37 | 7 | [voir](for_translation_dolibarr_resource_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 51 | [salaries](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/salaries/) | 55 | 5 | [voir](for_translation_dolibarr_salaries_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 52 | [sendings](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/sendings/) | 133 | 22 | [voir](for_translation_dolibarr_sendings_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 53 | [sms](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/sms/) | 50 |  |  | [x] | [ ] | [ ] | [ ] |
+| 53 | [sms](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/sms/) | 50 | 3 | [voir](for_translation_dolibarr_sms_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 54 | [stocks](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/stocks/) | 375 |  |  | [x] | [ ] | [ ] | [ ] |
 | 55 | [stripe](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/stripe/) | 111 |  |  | [x] | [ ] | [ ] | [ ] |
 | 56 | [supplier_proposal](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/supplier_proposal/) | 57 |  |  | [x] | [ ] | [ ] | [ ] |
@@ -68,4 +68,4 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 |  |  | [x] | [ ] | [ ] | [ ] |
 | 61 | [website](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/website/) | 526 |  |  | [x] | [ ] | [ ] | [ ] |
 | 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 |  |  | [x] | [ ] | [ ] | [ ] |
-| | **Total** | **15994** | **1516** | | | **52 / 62** | | |
+| | **Total** | **15994** | **1519** | | | **53 / 62** | | |
