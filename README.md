@@ -62,10 +62,10 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 54 | [stocks](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/stocks/) | 375 | 40 | [voir](for_translation_dolibarr_stocks_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 55 | [stripe](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/stripe/) | 111 | 18 | [voir](for_translation_dolibarr_stripe_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 56 | [supplier_proposal](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/supplier_proposal/) | 57 | 13 | [voir](for_translation_dolibarr_supplier_proposal_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 57 | [suppliers](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/suppliers/) | 54 |  |  | [x] | [ ] | [ ] | [ ] |
+| 57 | [suppliers](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/suppliers/) | 54 | 13 | [voir](for_translation_dolibarr_suppliers_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 58 | [ticket](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/ticket/) | 327 |  |  | [x] | [ ] | [ ] | [ ] |
 | 59 | [trips](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/trips/) | 160 |  |  | [x] | [ ] | [ ] | [ ] |
 | 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 |  |  | [x] | [ ] | [ ] | [ ] |
 | 61 | [website](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/website/) | 526 |  |  | [x] | [ ] | [ ] | [ ] |
 | 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 |  |  | [x] | [ ] | [ ] | [ ] |
-| | **Total** | **15994** | **1590** | | | **56 / 62** | | |
+| | **Total** | **15994** | **1603** | | | **57 / 62** | | |
