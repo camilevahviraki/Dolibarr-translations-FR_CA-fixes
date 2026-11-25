@@ -32,7 +32,7 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 24 | [interventions](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/interventions/) | 88 | 15 | [voir](for_translation_dolibarr_interventions_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 25 | [intracommreport](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/intracommreport/) | 30 | 1 | [voir](for_translation_dolibarr_intracommreport_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 26 | [knowledgemanagement](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/knowledgemanagement/) | 28 | 6 | [voir](for_translation_dolibarr_knowledgemanagement_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 27 | [languages](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/languages/) | 140 |  |  | [x] | [ ] | [ ] | [ ] |
+| 27 | [languages](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/languages/) | 140 | 4 | [voir](for_translation_dolibarr_languages-not-res_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 28 | [ldap](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/ldap/) | 32 |  |  | [x] | [ ] | [ ] | [ ] |
 | 29 | [loan](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/loan/) | 78 |  |  | [x] | [ ] | [ ] | [ ] |
 | 30 | [mails](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/mails/) | 213 |  |  | [x] | [ ] | [ ] | [ ] |
@@ -68,4 +68,4 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 |  |  | [x] | [ ] | [ ] | [ ] |
 | 61 | [website](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/website/) | 526 |  |  | [x] | [ ] | [ ] | [ ] |
 | 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 |  |  | [x] | [ ] | [ ] | [ ] |
-| | **Total** | **15994** | **754** | | | **26 / 62** | | |
+| | **Total** | **15994** | **758** | | | **27 / 62** | | |
