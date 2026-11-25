@@ -50,7 +50,7 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 42 | [printing](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/printing/) | 59 | 10 | [voir](for_translation_dolibarr_printing_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 43 | [productbatch](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/productbatch/) | 57 | 12 | [voir](for_translation_dolibarr_productbatch_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 44 | [products](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/products/) | 511 | 70 | [voir](for_translation_dolibarr_products_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 45 | [projects](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/projects/) | 340 |  |  | [x] | [ ] | [ ] | [ ] |
+| 45 | [projects](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/projects/) | 340 | 73 | [voir](for_translation_dolibarr_projects_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 46 | [propal](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/propal/) | 130 |  |  | [x] | [ ] | [ ] | [ ] |
 | 47 | [receiptprinter](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/receiptprinter/) | 85 |  |  | [x] | [ ] | [ ] | [ ] |
 | 48 | [receptions](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/receptions/) | 61 |  |  | [x] | [ ] | [ ] | [ ] |
@@ -68,4 +68,4 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 |  |  | [x] | [ ] | [ ] | [ ] |
 | 61 | [website](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/website/) | 526 |  |  | [x] | [ ] | [ ] | [ ] |
 | 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 |  |  | [x] | [ ] | [ ] | [ ] |
-| | **Total** | **15994** | **1358** | | | **44 / 62** | | |
+| | **Total** | **15994** | **1431** | | | **45 / 62** | | |
