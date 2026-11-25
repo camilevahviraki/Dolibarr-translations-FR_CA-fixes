@@ -46,7 +46,7 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 38 | [opensurvey](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/opensurvey/) | 86 | 6 | [voir](for_translation_dolibarr_opensurvey_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 39 | [orders](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/orders/) | 238 | 58 | [voir](for_translation_dolibarr_orders_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 40 | [other](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/other/) | 730 | 87 | [voir](for_translation_dolibarr_other_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 41 | [paypal](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/paypal/) | 36 |  |  | [x] | [ ] | [ ] | [ ] |
+| 41 | [paypal](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/paypal/) | 36 | 8 | [voir](for_translation_dolibarr_paypal_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 42 | [printing](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/printing/) | 59 |  |  | [x] | [ ] | [ ] | [ ] |
 | 43 | [productbatch](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/productbatch/) | 57 |  |  | [x] | [ ] | [ ] | [ ] |
 | 44 | [products](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/products/) | 511 |  |  | [x] | [ ] | [ ] | [ ] |
@@ -68,4 +68,4 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 |  |  | [x] | [ ] | [ ] | [ ] |
 | 61 | [website](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/website/) | 526 |  |  | [x] | [ ] | [ ] | [ ] |
 | 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 |  |  | [x] | [ ] | [ ] | [ ] |
-| | **Total** | **15994** | **1258** | | | **40 / 62** | | |
+| | **Total** | **15994** | **1266** | | | **41 / 62** | | |
