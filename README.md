@@ -65,7 +65,7 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 57 | [suppliers](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/suppliers/) | 54 | 13 | [voir](for_translation_dolibarr_suppliers_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 58 | [ticket](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/ticket/) | 327 | 53 | [voir](for_translation_dolibarr_ticket_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 59 | [trips](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/trips/) | 160 | 46 | [voir](for_translation_dolibarr_trips_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 |  |  | [x] | [ ] | [ ] | [ ] |
+| 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 | 16 | [voir](for_translation_dolibarr_users_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 61 | [website](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/website/) | 526 |  |  | [x] | [ ] | [ ] | [ ] |
 | 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 |  |  | [x] | [ ] | [ ] | [ ] |
-| | **Total** | **15994** | **1702** | | | **59 / 62** | | |
+| | **Total** | **15994** | **1718** | | | **60 / 62** | | |
