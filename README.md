@@ -24,7 +24,7 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 16 | [donations](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/donations/) | 63 | 7 | [voir](for_translation_dolibarr_donations_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 17 | [ecm](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/ecm/) | 59 | 4 | [voir](for_translation_dolibarr_ecm_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 18 | [errors](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/errors/) | 493 | 70 | [voir](for_translation_dolibarr_errors_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 19 | [eventorganization](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/eventorganization/) | 145 |  |  | [x] | [ ] | [ ] | [ ] |
+| 19 | [eventorganization](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/eventorganization/) | 145 | 8 | [voir](for_translation_dolibarr_eventorganization_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 20 | [exports](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/exports/) | 169 |  |  | [x] | [ ] | [ ] | [ ] |
 | 21 | [holiday](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/holiday/) | 171 |  |  | [x] | [ ] | [ ] | [ ] |
 | 22 | [hrm](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/hrm/) | 101 |  |  | [x] | [ ] | [ ] | [ ] |
@@ -68,4 +68,4 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 |  |  | [x] | [ ] | [ ] | [ ] |
 | 61 | [website](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/website/) | 526 |  |  | [x] | [ ] | [ ] | [ ] |
 | 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 |  |  | [x] | [ ] | [ ] | [ ] |
-| | **Total** | **15994** | **658** | | | **18 / 62** | | |
+| | **Total** | **15994** | **666** | | | **19 / 62** | | |
