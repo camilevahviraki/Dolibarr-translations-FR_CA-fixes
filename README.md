@@ -40,7 +40,7 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 32 | [margins](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/margins/) | 47 | 12 | [voir](for_translation_dolibarr_margins_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 33 | [members](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/members/) | 271 | 53 | [voir](for_translation_dolibarr_members_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 34 | [modulebuilder](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/modulebuilder/) | 224 | 16 | [voir](for_translation_dolibarr_modulebuilder_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 35 | [mrp](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/mrp/) | 178 |  |  | [x] | [ ] | [ ] | [ ] |
+| 35 | [mrp](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/mrp/) | 178 | 16 | [voir](for_translation_dolibarr_mrp_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 36 | [multicurrency](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/multicurrency/) | 47 |  |  | [x] | [ ] | [ ] | [ ] |
 | 37 | [oauth](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/oauth/) | 57 |  |  | [x] | [ ] | [ ] | [ ] |
 | 38 | [opensurvey](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/opensurvey/) | 86 |  |  | [x] | [ ] | [ ] | [ ] |
@@ -68,4 +68,4 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 |  |  | [x] | [ ] | [ ] | [ ] |
 | 61 | [website](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/website/) | 526 |  |  | [x] | [ ] | [ ] | [ ] |
 | 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 |  |  | [x] | [ ] | [ ] | [ ] |
-| | **Total** | **15994** | **1074** | | | **34 / 62** | | |
+| | **Total** | **15994** | **1090** | | | **35 / 62** | | |
