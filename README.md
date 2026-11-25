@@ -6,66 +6,66 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 
 | # | Ressource | Traductions | Fixes | Avant / après | Téléchargé | Traduit | Uploadé | Révisé / mergé |
 |---|---|---|---|---|---|---|---|---|
-| 1 | [accountancy](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/accountancy/) | 640 | 44 | [voir](for_translation_dolibarr_accountancy_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 2 | [admin](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/admin/) | 2927 | 146 | [voir](for_translation_dolibarr_admin_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 3 | [agenda](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/agenda/) | 221 | 8 | [voir](for_translation_dolibarr_agenda_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 4 | [assets](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/assets/) | 122 | 25 | [voir](for_translation_dolibarr_assets_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 5 | [banks](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/banks/) | 216 | 9 | [voir](for_translation_dolibarr_banks_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 6 | [bills](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/bills/) | 787 | 90 | [voir](for_translation_dolibarr_bills_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 7 | [blockedlog](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/blockedlog/) | 189 | 17 | [voir](for_translation_dolibarr_blockedlog_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 8 | [boxes](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/boxes/) | 160 | 42 | [voir](for_translation_dolibarr_boxes_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 9 | [cashdesk](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/cashdesk/) | 227 | 19 | [voir](for_translation_dolibarr_cashdesk_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 10 | [commercial](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/commercial/) | 103 | 11 | [voir](for_translation_dolibarr_commercial_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 11 | [companies](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/companies/) | 493 | 37 | [voir](for_translation_dolibarr_companies_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 12 | [compta](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/compta/) | 351 | 47 | [voir](for_translation_dolibarr_compta_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 13 | [contracts](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/contracts/) | 126 | 20 | [voir](for_translation_dolibarr_contracts_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 14 | [cron](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/cron/) | 88 | 13 | [voir](for_translation_dolibarr_cron_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 15 | [dict](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/dict/) | 354 | 49 | [voir](for_translation_dolibarr_dict_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 16 | [donations](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/donations/) | 63 | 7 | [voir](for_translation_dolibarr_donations_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 17 | [ecm](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/ecm/) | 59 | 4 | [voir](for_translation_dolibarr_ecm_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 18 | [errors](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/errors/) | 493 | 70 | [voir](for_translation_dolibarr_errors_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 19 | [eventorganization](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/eventorganization/) | 145 | 8 | [voir](for_translation_dolibarr_eventorganization_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 20 | [exports](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/exports/) | 169 | 18 | [voir](for_translation_dolibarr_exports_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 21 | [holiday](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/holiday/) | 171 | 29 | [voir](for_translation_dolibarr_holiday_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 22 | [hrm](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/hrm/) | 101 | 11 | [voir](for_translation_dolibarr_hrm_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 23 | [install](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/install/) | 236 | 8 | [voir](for_translation_dolibarr_install_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 24 | [interventions](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/interventions/) | 88 | 15 | [voir](for_translation_dolibarr_interventions_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 25 | [intracommreport](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/intracommreport/) | 30 | 1 | [voir](for_translation_dolibarr_intracommreport_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 26 | [knowledgemanagement](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/knowledgemanagement/) | 28 | 6 | [voir](for_translation_dolibarr_knowledgemanagement_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 27 | [languages](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/languages/) | 140 | 4 | [voir](for_translation_dolibarr_languages-not-res_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 28 | [ldap](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/ldap/) | 32 | 4 | [voir](for_translation_dolibarr_ldap_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 29 | [loan](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/loan/) | 78 | 7 | [voir](for_translation_dolibarr_loan_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 30 | [mails](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/mails/) | 213 | 106 | [voir](for_translation_dolibarr_mails_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 31 | [main](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/main/) | 1447 | 118 | [voir](for_translation_dolibarr_main_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 32 | [margins](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/margins/) | 47 | 12 | [voir](for_translation_dolibarr_margins_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 33 | [members](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/members/) | 271 | 53 | [voir](for_translation_dolibarr_members_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 34 | [modulebuilder](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/modulebuilder/) | 224 | 16 | [voir](for_translation_dolibarr_modulebuilder_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 35 | [mrp](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/mrp/) | 178 | 16 | [voir](for_translation_dolibarr_mrp_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 36 | [multicurrency](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/multicurrency/) | 47 | 11 | [voir](for_translation_dolibarr_multicurrency_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 37 | [oauth](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/oauth/) | 57 | 6 | [voir](for_translation_dolibarr_oauth_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 38 | [opensurvey](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/opensurvey/) | 86 | 6 | [voir](for_translation_dolibarr_opensurvey_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 39 | [orders](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/orders/) | 238 | 58 | [voir](for_translation_dolibarr_orders_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 40 | [other](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/other/) | 730 | 87 | [voir](for_translation_dolibarr_other_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 41 | [paypal](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/paypal/) | 36 | 8 | [voir](for_translation_dolibarr_paypal_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 42 | [printing](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/printing/) | 59 | 10 | [voir](for_translation_dolibarr_printing_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 43 | [productbatch](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/productbatch/) | 57 | 12 | [voir](for_translation_dolibarr_productbatch_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 44 | [products](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/products/) | 511 | 70 | [voir](for_translation_dolibarr_products_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 45 | [projects](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/projects/) | 340 | 73 | [voir](for_translation_dolibarr_projects_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 46 | [propal](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/propal/) | 130 | 18 | [voir](for_translation_dolibarr_propal_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 47 | [receiptprinter](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/receiptprinter/) | 85 | 19 | [voir](for_translation_dolibarr_receiptprinter_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 48 | [receptions](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/receptions/) | 61 | 7 | [voir](for_translation_dolibarr_receptions_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 49 | [recruitment](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/recruitment/) | 53 | 7 | [voir](for_translation_dolibarr_recruitment_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 50 | [resource](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/resource/) | 37 | 7 | [voir](for_translation_dolibarr_resource_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 51 | [salaries](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/salaries/) | 55 | 5 | [voir](for_translation_dolibarr_salaries_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 52 | [sendings](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/sendings/) | 133 | 22 | [voir](for_translation_dolibarr_sendings_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 53 | [sms](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/sms/) | 50 | 3 | [voir](for_translation_dolibarr_sms_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 54 | [stocks](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/stocks/) | 375 | 40 | [voir](for_translation_dolibarr_stocks_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 55 | [stripe](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/stripe/) | 111 | 18 | [voir](for_translation_dolibarr_stripe_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 56 | [supplier_proposal](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/supplier_proposal/) | 57 | 13 | [voir](for_translation_dolibarr_supplier_proposal_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 57 | [suppliers](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/suppliers/) | 54 | 13 | [voir](for_translation_dolibarr_suppliers_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 58 | [ticket](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/ticket/) | 327 | 53 | [voir](for_translation_dolibarr_ticket_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 59 | [trips](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/trips/) | 160 | 46 | [voir](for_translation_dolibarr_trips_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 | 16 | [voir](for_translation_dolibarr_users_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 61 | [website](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/website/) | 526 | 23 | [voir](for_translation_dolibarr_website_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 | 47 | [voir](for_translation_dolibarr_withdrawals_fr_CA.md) | [x] | [x] | [ ] | [ ] |
+| 1 | [accountancy](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/accountancy/) | 640 | 44 | [voir](for_translation_dolibarr_accountancy_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 2 | [admin](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/admin/) | 2927 | 146 | [voir](for_translation_dolibarr_admin_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 3 | [agenda](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/agenda/) | 221 | 8 | [voir](for_translation_dolibarr_agenda_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 4 | [assets](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/assets/) | 122 | 25 | [voir](for_translation_dolibarr_assets_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 5 | [banks](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/banks/) | 216 | 9 | [voir](for_translation_dolibarr_banks_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 6 | [bills](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/bills/) | 787 | 90 | [voir](for_translation_dolibarr_bills_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 7 | [blockedlog](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/blockedlog/) | 189 | 17 | [voir](for_translation_dolibarr_blockedlog_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 8 | [boxes](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/boxes/) | 160 | 42 | [voir](for_translation_dolibarr_boxes_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 9 | [cashdesk](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/cashdesk/) | 227 | 19 | [voir](for_translation_dolibarr_cashdesk_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 10 | [commercial](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/commercial/) | 103 | 11 | [voir](for_translation_dolibarr_commercial_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 11 | [companies](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/companies/) | 493 | 37 | [voir](for_translation_dolibarr_companies_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 12 | [compta](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/compta/) | 351 | 47 | [voir](for_translation_dolibarr_compta_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 13 | [contracts](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/contracts/) | 126 | 20 | [voir](for_translation_dolibarr_contracts_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 14 | [cron](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/cron/) | 88 | 13 | [voir](for_translation_dolibarr_cron_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 15 | [dict](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/dict/) | 354 | 49 | [voir](for_translation_dolibarr_dict_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 16 | [donations](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/donations/) | 63 | 7 | [voir](for_translation_dolibarr_donations_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 17 | [ecm](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/ecm/) | 59 | 4 | [voir](for_translation_dolibarr_ecm_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 18 | [errors](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/errors/) | 493 | 70 | [voir](for_translation_dolibarr_errors_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 19 | [eventorganization](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/eventorganization/) | 145 | 8 | [voir](for_translation_dolibarr_eventorganization_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 20 | [exports](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/exports/) | 169 | 18 | [voir](for_translation_dolibarr_exports_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 21 | [holiday](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/holiday/) | 171 | 29 | [voir](for_translation_dolibarr_holiday_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 22 | [hrm](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/hrm/) | 101 | 11 | [voir](for_translation_dolibarr_hrm_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 23 | [install](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/install/) | 236 | 8 | [voir](for_translation_dolibarr_install_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 24 | [interventions](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/interventions/) | 88 | 15 | [voir](for_translation_dolibarr_interventions_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 25 | [intracommreport](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/intracommreport/) | 30 | 1 | [voir](for_translation_dolibarr_intracommreport_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 26 | [knowledgemanagement](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/knowledgemanagement/) | 28 | 6 | [voir](for_translation_dolibarr_knowledgemanagement_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 27 | [languages](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/languages/) | 140 | 4 | [voir](for_translation_dolibarr_languages-not-res_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 28 | [ldap](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/ldap/) | 32 | 4 | [voir](for_translation_dolibarr_ldap_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 29 | [loan](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/loan/) | 78 | 7 | [voir](for_translation_dolibarr_loan_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 30 | [mails](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/mails/) | 213 | 106 | [voir](for_translation_dolibarr_mails_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 31 | [main](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/main/) | 1447 | 118 | [voir](for_translation_dolibarr_main_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 32 | [margins](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/margins/) | 47 | 12 | [voir](for_translation_dolibarr_margins_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 33 | [members](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/members/) | 271 | 53 | [voir](for_translation_dolibarr_members_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 34 | [modulebuilder](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/modulebuilder/) | 224 | 16 | [voir](for_translation_dolibarr_modulebuilder_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 35 | [mrp](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/mrp/) | 178 | 16 | [voir](for_translation_dolibarr_mrp_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 36 | [multicurrency](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/multicurrency/) | 47 | 11 | [voir](for_translation_dolibarr_multicurrency_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 37 | [oauth](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/oauth/) | 57 | 6 | [voir](for_translation_dolibarr_oauth_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 38 | [opensurvey](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/opensurvey/) | 86 | 6 | [voir](for_translation_dolibarr_opensurvey_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 39 | [orders](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/orders/) | 238 | 58 | [voir](for_translation_dolibarr_orders_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 40 | [other](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/other/) | 730 | 87 | [voir](for_translation_dolibarr_other_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 41 | [paypal](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/paypal/) | 36 | 8 | [voir](for_translation_dolibarr_paypal_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 42 | [printing](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/printing/) | 59 | 10 | [voir](for_translation_dolibarr_printing_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 43 | [productbatch](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/productbatch/) | 57 | 12 | [voir](for_translation_dolibarr_productbatch_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 44 | [products](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/products/) | 511 | 70 | [voir](for_translation_dolibarr_products_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 45 | [projects](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/projects/) | 340 | 73 | [voir](for_translation_dolibarr_projects_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 46 | [propal](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/propal/) | 130 | 18 | [voir](for_translation_dolibarr_propal_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 47 | [receiptprinter](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/receiptprinter/) | 85 | 19 | [voir](for_translation_dolibarr_receiptprinter_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 48 | [receptions](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/receptions/) | 61 | 7 | [voir](for_translation_dolibarr_receptions_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 49 | [recruitment](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/recruitment/) | 53 | 7 | [voir](for_translation_dolibarr_recruitment_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 50 | [resource](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/resource/) | 37 | 7 | [voir](for_translation_dolibarr_resource_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 51 | [salaries](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/salaries/) | 55 | 5 | [voir](for_translation_dolibarr_salaries_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 52 | [sendings](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/sendings/) | 133 | 22 | [voir](for_translation_dolibarr_sendings_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 53 | [sms](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/sms/) | 50 | 3 | [voir](for_translation_dolibarr_sms_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 54 | [stocks](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/stocks/) | 375 | 40 | [voir](for_translation_dolibarr_stocks_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 55 | [stripe](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/stripe/) | 111 | 18 | [voir](for_translation_dolibarr_stripe_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 56 | [supplier_proposal](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/supplier_proposal/) | 57 | 13 | [voir](for_translation_dolibarr_supplier_proposal_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 57 | [suppliers](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/suppliers/) | 54 | 13 | [voir](for_translation_dolibarr_suppliers_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 58 | [ticket](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/ticket/) | 327 | 53 | [voir](for_translation_dolibarr_ticket_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 59 | [trips](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/trips/) | 160 | 46 | [voir](for_translation_dolibarr_trips_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 | 16 | [voir](for_translation_dolibarr_users_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 61 | [website](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/website/) | 526 | 23 | [voir](for_translation_dolibarr_website_fr_CA.md) | [x] | [x] | [x] | [ ] |
+| 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 | 47 | [voir](for_translation_dolibarr_withdrawals_fr_CA.md) | [x] | [x] | [x] | [ ] |
 | | **Total** | **15994** | **1788** | | | **62 / 62** | | |
