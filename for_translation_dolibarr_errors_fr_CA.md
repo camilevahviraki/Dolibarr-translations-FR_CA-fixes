@@ -1,4 +1,4 @@
-# errors — avant / après
+# errors : avant / après
 
 - Fichier : `for_translation_dolibarr_errors_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **70** sur 493 traductions

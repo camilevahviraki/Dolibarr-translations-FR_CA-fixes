@@ -1,4 +1,4 @@
-# agenda — avant / après
+# agenda : avant / après
 
 - Fichier : `for_translation_dolibarr_agenda_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **8** sur 221 traductions

@@ -1,4 +1,4 @@
-# compta — avant / après
+# compta : avant / après
 
 - Fichier : `for_translation_dolibarr_compta_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **47** sur 351 traductions

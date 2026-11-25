@@ -1,4 +1,4 @@
-# accountancy — avant / après
+# accountancy : avant / après
 
 - Fichier : `for_translation_dolibarr_accountancy_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **44** sur 640 traductions

@@ -1,4 +1,4 @@
-# banks — avant / après
+# banks : avant / après
 
 - Fichier : `for_translation_dolibarr_banks_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **9** sur 216 traductions

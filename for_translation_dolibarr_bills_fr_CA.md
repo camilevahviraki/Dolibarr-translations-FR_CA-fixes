@@ -1,4 +1,4 @@
-# bills — avant / après
+# bills : avant / après
 
 - Fichier : `for_translation_dolibarr_bills_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **90** sur 787 traductions
@@ -43,7 +43,7 @@
 | 36 | `toolTipFrequency` | Examples:<br><b>Set 7, Day</b>: give a new invoice every 7 days<br><b>Set 3, Month</b>: give a new invoice every 3 month | Exemples :<br><b>Ensemble 7, Jour</b> : émission d'une nouvelle facture tous les 7 jours<br><b>Ensemble 3, Mois</b> : émission d'une nouvelle facture tous les 3 mois | Exemples :<br><b>Régler à7, Jour</b> : émission d'une nouvelle facture tous les 7 jours<br><b>Régler à3, Mois</b> : émission d'une nouvelle facture tous les 3 mois |
 | 37 | `NextDateToExecutionHelp` | If you set a day >= 28, the invoice will be generated on the last day of each month (end-of-month mode). For example, setting the 31st will generate invoices on Jan 31, Feb 28/29, Mar 31, Apr 30, etc. | Si vous définissez une date supérieure ou égale à 28, la facture sera générée le dernier jour de chaque mois (mode fin de mois). Par exemple, si vous définissez le 31, les factures seront générées le 31 janvier, les 28 et 29 février, le 31 mars, le 30 avril, etc. | Si vous définissez une date supérieure ou égale à 28, la facture sera générée le dernier jour de chaque mois (mode fin de mois). Par exemple, si vous définissez le 31, les factures seront générées le 31 janvier, le 28 ou 29 février, le 31 mars, le 30 avril, etc. |
 | 38 | `CreditNoteOnDepositCantBeSetToDraft` | Cannot set back to draft a credit note on a fully applied deposit | Il est impossible de revenir en arrière et de rédiger une note de crédit sur un dépôt entièrement appliqué. | Impossible de remettre en brouillon une note de crédit sur un dépôt entièrement appliqué. |
-| 39 | `DepositMaxCreditNote` | Available credit on this deposit: %s TTC — credit note amount cannot exceed this value | Crédit disponible sur ce dépôt : %s TTC — le montant de l'avoir ne peut pas dépasser cette valeur | Crédit disponible sur ce dépôt : %s TTC — le montant de la note de crédit ne peut pas dépasser cette valeur |
+| 39 | `DepositMaxCreditNote` | Available credit on this deposit: %s TTC — credit note amount cannot exceed this value | Crédit disponible sur ce dépôt : %s TTC — le montant de l'avoir ne peut pas dépasser cette valeur | Crédit disponible sur ce dépôt : %s TTC. Le montant de la note de crédit ne peut pas dépasser cette valeur |
 | 40 | `CreditNoteExceedsDepositCredit` | Credit note amount exceeds the available deposit credit (%s TTC) | Le montant de l'avoir dépasse le crédit de dépôt disponible (%s TTC) | Le montant de la note de crédit dépasse le crédit de dépôt disponible (%s TTC) |
 | 41 | `PaymentTypePRE` | Direct debit payment order | Ordre de paiement de débit direct | Prélèvement automatique |
 | 42 | `PaymentTypeShortPRE` | Debit payment order | Ordre de paiement de débit | Prélèvement |

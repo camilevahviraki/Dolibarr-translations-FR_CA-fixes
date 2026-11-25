@@ -1,4 +1,4 @@
-# commercial — avant / après
+# commercial : avant / après
 
 - Fichier : `for_translation_dolibarr_commercial_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **11** sur 103 traductions

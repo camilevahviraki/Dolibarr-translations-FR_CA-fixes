@@ -1,4 +1,4 @@
-# blockedlog — avant / après
+# blockedlog : avant / après
 
 - Fichier : `for_translation_dolibarr_blockedlog_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **17** sur 189 traductions

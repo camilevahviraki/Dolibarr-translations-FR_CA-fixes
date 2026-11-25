@@ -1,4 +1,4 @@
-# ecm — avant / après
+# ecm : avant / après
 
 - Fichier : `for_translation_dolibarr_ecm_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **4** sur 59 traductions

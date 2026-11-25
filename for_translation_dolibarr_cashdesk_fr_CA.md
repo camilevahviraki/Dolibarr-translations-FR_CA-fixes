@@ -1,4 +1,4 @@
-# cashdesk — avant / après
+# cashdesk : avant / après
 
 - Fichier : `for_translation_dolibarr_cashdesk_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **19** sur 227 traductions

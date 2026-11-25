@@ -1,4 +1,4 @@
-# dict — avant / après
+# dict : avant / après
 
 - Fichier : `for_translation_dolibarr_dict_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **49** sur 354 traductions

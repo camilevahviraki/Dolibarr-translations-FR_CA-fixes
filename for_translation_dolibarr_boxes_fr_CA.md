@@ -1,4 +1,4 @@
-# boxes — avant / après
+# boxes : avant / après
 
 - Fichier : `for_translation_dolibarr_boxes_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **42** sur 160 traductions

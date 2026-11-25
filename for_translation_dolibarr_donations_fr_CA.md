@@ -1,4 +1,4 @@
-# donations — avant / après
+# donations : avant / après
 
 - Fichier : `for_translation_dolibarr_donations_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **7** sur 63 traductions

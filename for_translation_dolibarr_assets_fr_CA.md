@@ -1,4 +1,4 @@
-# assets — avant / après
+# assets : avant / après
 
 - Fichier : `for_translation_dolibarr_assets_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **25** sur 122 traductions

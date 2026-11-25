@@ -1,4 +1,4 @@
-# companies — avant / après
+# companies : avant / après
 
 - Fichier : `for_translation_dolibarr_companies_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **37** sur 493 traductions

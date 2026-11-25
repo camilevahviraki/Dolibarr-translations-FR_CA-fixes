@@ -1,4 +1,4 @@
-# admin — avant / après
+# admin : avant / après
 
 - Fichier : `for_translation_dolibarr_admin_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **146** sur 2927 traductions

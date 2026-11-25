@@ -1,4 +1,4 @@
-# contracts — avant / après
+# contracts : avant / après
 
 - Fichier : `for_translation_dolibarr_contracts_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **20** sur 126 traductions

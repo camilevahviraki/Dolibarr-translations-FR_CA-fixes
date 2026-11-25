@@ -1,4 +1,4 @@
-# cron — avant / après
+# cron : avant / après
 
 - Fichier : `for_translation_dolibarr_cron_fr_CA.properties` (avant = original Transifex commité, après = version corrigée)
 - Lignes modifiées : **13** sur 88 traductions
