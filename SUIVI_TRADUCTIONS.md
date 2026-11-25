@@ -7,7 +7,7 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | # | Ressource | Traductions | Fixes | Téléchargé | Traduit | Uploadé | Révisé / mergé |
 |---|---|---|---|---|---|---|---|
 | 1 | [accountancy](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/accountancy/) | 640 | 44 | [x] | [x] | [ ] | [ ] |
-| 2 | [admin](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/admin/) | 2927 |  | [x] | [ ] | [x] | [ ] |
+| 2 | [admin](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/admin/) | 2927 | 146 | [x] | [x] | [ ] | [ ] |
 | 3 | [agenda](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/agenda/) | 221 | 8 | [x] | [x] | [ ] | [ ] |
 | 4 | [assets](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/assets/) | 122 | 25 | [x] | [x] | [ ] | [ ] |
 | 5 | [banks](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/banks/) | 216 | 9 | [x] | [x] | [ ] | [ ] |
@@ -68,4 +68,4 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 |  | [x] | [ ] | [ ] | [ ] |
 | 61 | [website](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/website/) | 526 |  | [x] | [ ] | [ ] | [ ] |
 | 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 |  | [x] | [ ] | [ ] | [ ] |
-| | **Total** | **15994** | **354** | | **13 / 62** | | |
+| | **Total** | **15994** | **500** | | **14 / 62** | | |
