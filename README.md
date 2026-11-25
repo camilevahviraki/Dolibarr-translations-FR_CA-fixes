@@ -67,5 +67,5 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 59 | [trips](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/trips/) | 160 | 46 | [voir](for_translation_dolibarr_trips_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 | 16 | [voir](for_translation_dolibarr_users_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 61 | [website](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/website/) | 526 |  |  | [x] | [ ] | [ ] | [ ] |
-| 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 |  |  | [x] | [ ] | [ ] | [ ] |
-| | **Total** | **15994** | **1718** | | | **60 / 62** | | |
+| 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 | 47 | [voir](for_translation_dolibarr_withdrawals_fr_CA.md) | [x] | [x] | [ ] | [ ] |
+| | **Total** | **15994** | **1765** | | | **61 / 62** | | |
