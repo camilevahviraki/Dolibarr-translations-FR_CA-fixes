@@ -56,7 +56,7 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 48 | [receptions](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/receptions/) | 61 | 7 | [voir](for_translation_dolibarr_receptions_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 49 | [recruitment](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/recruitment/) | 53 | 7 | [voir](for_translation_dolibarr_recruitment_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 50 | [resource](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/resource/) | 37 | 7 | [voir](for_translation_dolibarr_resource_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 51 | [salaries](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/salaries/) | 55 |  |  | [x] | [ ] | [ ] | [ ] |
+| 51 | [salaries](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/salaries/) | 55 | 5 | [voir](for_translation_dolibarr_salaries_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 52 | [sendings](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/sendings/) | 133 |  |  | [x] | [ ] | [ ] | [ ] |
 | 53 | [sms](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/sms/) | 50 |  |  | [x] | [ ] | [ ] | [ ] |
 | 54 | [stocks](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/stocks/) | 375 |  |  | [x] | [ ] | [ ] | [ ] |
@@ -68,4 +68,4 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 |  |  | [x] | [ ] | [ ] | [ ] |
 | 61 | [website](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/website/) | 526 |  |  | [x] | [ ] | [ ] | [ ] |
 | 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 |  |  | [x] | [ ] | [ ] | [ ] |
-| | **Total** | **15994** | **1489** | | | **50 / 62** | | |
+| | **Total** | **15994** | **1494** | | | **51 / 62** | | |
