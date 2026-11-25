@@ -27,7 +27,7 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 19 | [eventorganization](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/eventorganization/) | 145 | 8 | [voir](for_translation_dolibarr_eventorganization_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 20 | [exports](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/exports/) | 169 | 18 | [voir](for_translation_dolibarr_exports_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 21 | [holiday](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/holiday/) | 171 | 29 | [voir](for_translation_dolibarr_holiday_fr_CA.md) | [x] | [x] | [ ] | [ ] |
-| 22 | [hrm](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/hrm/) | 101 |  |  | [x] | [ ] | [ ] | [ ] |
+| 22 | [hrm](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/hrm/) | 101 | 11 | [voir](for_translation_dolibarr_hrm_fr_CA.md) | [x] | [x] | [ ] | [ ] |
 | 23 | [install](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/install/) | 236 |  |  | [x] | [ ] | [ ] | [ ] |
 | 24 | [interventions](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/interventions/) | 88 |  |  | [x] | [ ] | [ ] | [ ] |
 | 25 | [intracommreport](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/intracommreport/) | 30 |  |  | [x] | [ ] | [ ] | [ ] |
@@ -68,4 +68,4 @@ Légende : **Traductions** = nombre de chaînes dans le fichier · **Fixes** = n
 | 60 | [users](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/users/) | 225 |  |  | [x] | [ ] | [ ] | [ ] |
 | 61 | [website](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/website/) | 526 |  |  | [x] | [ ] | [ ] | [ ] |
 | 62 | [withdrawals](https://app.transifex.com/dolibarr-association/dolibarr/translate/#fr_CA/withdrawals/) | 177 |  |  | [x] | [ ] | [ ] | [ ] |
-| | **Total** | **15994** | **713** | | | **21 / 62** | | |
+| | **Total** | **15994** | **724** | | | **22 / 62** | | |
